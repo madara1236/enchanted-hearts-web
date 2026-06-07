@@ -23,8 +23,8 @@ const LoveLetter = () => {
             "No matter where life takes us, I hope our friendship stays the same—full of support, trust, laughter, and beautiful memories." ✨I don't know what the future holds, but I do know that having you by my side makes every journey brighter and every moment more meaningful." 🤍
           </p>
           <p className="letter-signature">
-            With all my love,<br/>
-            Your devoted partner 💕
+            Thank you for always being there,<br/>
+            Your bestest friend 💕
           </p>
         </div>
       </div>
