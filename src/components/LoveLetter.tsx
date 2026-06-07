@@ -17,13 +17,10 @@ const LoveLetter = () => {
           </p>
           <p className="letter-paragraph">
             Your smile lights up my world in ways I never thought possible. When I look into your eyes, 
-            I see our future together - filled with laughter, adventures, and endless love. 
-            You make me want to be the best version of myself.
+           I see our future filled with countless memories, endless laughter, crazy adventures, and a friendship that only grows stronger with time." 💙 best version of myself.
           </p>
           <p className="letter-paragraph">
-            I promise to love you through every season of life, to support your dreams, 
-            and to create beautiful memories together. You are my forever person, my soulmate, 
-            and my greatest blessing.
+            "No matter where life takes us, I hope our friendship stays the same—full of support, trust, laughter, and beautiful memories." ✨I don't know what the future holds, but I do know that having you by my side makes every journey brighter and every moment more meaningful." 🤍
           </p>
           <p className="letter-signature">
             With all my love,<br/>
