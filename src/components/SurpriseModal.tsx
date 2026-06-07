@@ -55,7 +55,7 @@ const SurpriseModal: React.FC<SurpriseModalProps> = ({ isOpen, onClose }) => {
         <div className={`handwritten-letter ${showLetter ? "show" : ""}`}>
           <div className="letter-paper">
             <div className="letter-header">
-              <h2 className="handwritten-title">My Dearest Love</h2>
+              <h2 className="handwritten-title">meri chotti bchii 😘🧿</h2>
             </div>
             <div className="handwritten-content">
               <p className="handwritten-line">
@@ -71,7 +71,7 @@ const SurpriseModal: React.FC<SurpriseModalProps> = ({ isOpen, onClose }) => {
                 and the dream I never want to wake up from.
               </p>
               <p className="handwritten-line">
-                I love you more than words can express.
+                Forever us 🤍🫂.
               </p>
               <div className="handwritten-signature">
                 Forever yours,
